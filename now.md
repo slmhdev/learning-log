@@ -1,0 +1,2 @@
+### Current focus
+- Python fundamentals

@@ -23,13 +23,13 @@ As my progress continues, this log will expand into JavaScript, Solidity, and Ru
 ## Repo Structure
 
 learning-log/
-├─ now.md # what I’m currently studying this week
-├─ weekly/ # weekly write-ups
-├─ monthly/ # monthly write-ups
-├─ python/ # Python notes & exercises
-├─ javascript/ # JavaScript notes (later)
-├─ solidity/ # Solidity & EVM notes (later)
-├─ rust/ # Rust notes (later)
+─ now.md # what I’m currently studying this week
+─ weekly/ # weekly write-ups
+─ monthly/ # monthly write-ups
+─ python/ # Python notes & exercises
+─ javascript/ # JavaScript notes (later)
+─ solidity/ # Solidity & EVM notes (later)
+─ rust/ # Rust notes (later)
 
 ---
 
